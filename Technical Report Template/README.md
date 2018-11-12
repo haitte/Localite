@@ -1,1 +1,1 @@
-all the project documents will be sstore here.
+all the project documents will be store here.
